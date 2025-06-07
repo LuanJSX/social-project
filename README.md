@@ -33,7 +33,7 @@ Criar um site simples que simula uma rede social, onde é possível visualizar p
 │   └── style.css
 ├── js
 │   └── script.js
-├── images
-│   └── profile.jpg
-└── .git
+├── img
+│   └── logo.png
+├── .git
 ```
